@@ -11,4 +11,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         EstruturaDeControleEmCpp.cpp
         ArraysEmCpp.cpp
         MatrizesEmCpp.cpp
+        ProblemaRetangulo.cpp
 )
