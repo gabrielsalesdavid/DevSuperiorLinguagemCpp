@@ -7,4 +7,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         VariaveisETipos.cpp
         SaidaDeDados.cpp
         ProcessamentoECastingEmCpp.cpp
+        EntradaDeDadosEmCpp.cpp
 )
