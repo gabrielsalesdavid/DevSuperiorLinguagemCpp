@@ -12,4 +12,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         ArraysEmCpp.cpp
         MatrizesEmCpp.cpp
         ProblemaRetangulo.cpp
+        ProblemaIdadeEmCpp.cpp
 )
