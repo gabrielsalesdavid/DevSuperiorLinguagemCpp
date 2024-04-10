@@ -9,4 +9,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         ProcessamentoECastingEmCpp.cpp
         EntradaDeDadosEmCpp.cpp
         EstruturaDeControleEmCpp.cpp
+        ArraysEmCpp.cpp
 )
