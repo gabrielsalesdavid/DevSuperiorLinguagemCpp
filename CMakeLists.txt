@@ -10,4 +10,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         EntradaDeDadosEmCpp.cpp
         EstruturaDeControleEmCpp.cpp
         ArraysEmCpp.cpp
+        MatrizesEmCpp.cpp
 )
