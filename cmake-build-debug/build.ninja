@@ -67,8 +67,8 @@ build CMakeFiles/DevSuperioLinguagemCpp.dir/SaidaDeDados.cpp.obj: CXX_COMPILER__
   OBJECT_DIR = CMakeFiles\DevSuperioLinguagemCpp.dir
   OBJECT_FILE_DIR = CMakeFiles\DevSuperioLinguagemCpp.dir
 
-build CMakeFiles/DevSuperioLinguagemCpp.dir/Test.cpp.obj: CXX_COMPILER__DevSuperioLinguagemCpp_unscanned_Debug C$:/Users/GSD/CLionProjects/DevSuperioLinguagemCpp/cmake-build-debug/Test.cpp || cmake_object_order_depends_target_DevSuperioLinguagemCpp
-  DEP_FILE = CMakeFiles\DevSuperioLinguagemCpp.dir\Test.cpp.obj.d
+build CMakeFiles/DevSuperioLinguagemCpp.dir/ProcessamentoECastingEmCpp.cpp.obj: CXX_COMPILER__DevSuperioLinguagemCpp_unscanned_Debug C$:/Users/GSD/CLionProjects/DevSuperioLinguagemCpp/ProcessamentoECastingEmCpp.cpp || cmake_object_order_depends_target_DevSuperioLinguagemCpp
+  DEP_FILE = CMakeFiles\DevSuperioLinguagemCpp.dir\ProcessamentoECastingEmCpp.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\DevSuperioLinguagemCpp.dir
   OBJECT_FILE_DIR = CMakeFiles\DevSuperioLinguagemCpp.dir
@@ -81,7 +81,7 @@ build CMakeFiles/DevSuperioLinguagemCpp.dir/Test.cpp.obj: CXX_COMPILER__DevSuper
 #############################################
 # Link the executable DevSuperioLinguagemCpp.exe
 
-build DevSuperioLinguagemCpp.exe: CXX_EXECUTABLE_LINKER__DevSuperioLinguagemCpp_Debug CMakeFiles/DevSuperioLinguagemCpp.dir/PrimeiroPassoEmC++.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/VariaveisETipos.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/SaidaDeDados.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/Test.cpp.obj
+build DevSuperioLinguagemCpp.exe: CXX_EXECUTABLE_LINKER__DevSuperioLinguagemCpp_Debug CMakeFiles/DevSuperioLinguagemCpp.dir/PrimeiroPassoEmC++.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/VariaveisETipos.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/SaidaDeDados.cpp.obj CMakeFiles/DevSuperioLinguagemCpp.dir/ProcessamentoECastingEmCpp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DevSuperioLinguagemCpp.dir
