@@ -9,8 +9,8 @@ int main () {
     x = 20;
     y = 10;
 
-    cout << "O valor de X é: " << x << endl;
-    cout << "O valor de Y é: " << y << endl;
+    cout << "O valor de X e: " << x << endl;
+    cout << "O valor de Y e: " << y << endl;
 
     return 0;
 }
