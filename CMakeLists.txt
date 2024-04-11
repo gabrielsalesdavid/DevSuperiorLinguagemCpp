@@ -16,4 +16,5 @@ add_executable(DevSuperioLinguagemCpp PrimeiroPassoEmC++.cpp
         ProblemaMenorDeTresEmCpp.cpp
         ProblemaCrescente.cpp
         ProblemaSomaImpares.cpp
+        ProblemaAlturasEmCpp.cpp
 )
