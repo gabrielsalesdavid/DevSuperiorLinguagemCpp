@@ -1,4 +1,5 @@
 # ninja log v5
+11	684	7345063760198286	CMakeFiles/DevSuperioLinguagemCpp.dir/ProblemaCrescente.cpp.obj	ea71632a7a522e65
 42	871	7343228308561577	CMakeFiles/DevSuperioLinguagemCpp.dir/PrimeiroPassoEmC++.cpp.obj	8fc27772516dc54f
 1820	2272	7343174474779895	DevSuperioLinguagemCpp.exe	ce6ae6332e087a46
 7	998	7343228309838165	CMakeFiles/DevSuperioLinguagemCpp.dir/VariaveisETipos.cpp.obj	82d7843353e45ceb
@@ -11,4 +12,3 @@
 2048	2753	7345048119538799	CMakeFiles/DevSuperioLinguagemCpp.dir/MatrizesEmCpp.cpp.obj	bdcbab754d26216
 2443	3183	7345048123877065	CMakeFiles/DevSuperioLinguagemCpp.dir/ProblemaMenorDeTresEmCpp.cpp.obj	5867219d33013ec6
 29	4705	7345048139122317	CMakeFiles/DevSuperioLinguagemCpp.dir/EntradaDeDadosEmCpp.cpp.obj	9e313520fe5eacc5
-11	684	7345063760198286	CMakeFiles/DevSuperioLinguagemCpp.dir/ProblemaCrescente.cpp.obj	ea71632a7a522e65
